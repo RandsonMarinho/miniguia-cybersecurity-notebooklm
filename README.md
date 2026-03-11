@@ -40,5 +40,6 @@ Desenvolver pensamento crítico para identificação de vetores de ataque.
 
 Aplicar metodologias de defesa em camadas para mitigar riscos reais.
 
+Link para o Mini-guia de cibersegurança notebooklm: https://notebooklm.google.com/notebook/fe9c3788-a443-42c6-ac61-aa0a5ae6aac3
 
 "A segurança não é um produto, mas um processo." – Bruce Schneier
